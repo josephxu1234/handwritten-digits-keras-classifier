@@ -1,4 +1,4 @@
-# mnist_digit_classifcation
+# handwritten-digits-keras-classifier
 Use keras to recoginze digits based on the mnist database
 
 How it works:
